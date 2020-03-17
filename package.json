@@ -1,0 +1,24 @@
+{
+  "name": "runcatching",
+  "version": "1.0.0",
+  "description": "Javascript utility library for more controlled error handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/varun508/runcatching.git"
+  },
+  "keywords": [
+    "error",
+    "error-handling",
+    "trycatch"
+  ],
+  "author": "Varun Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varun508/runcatching/issues"
+  },
+  "homepage": "https://github.com/varun508/runcatching#readme"
+}
