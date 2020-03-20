@@ -4,6 +4,8 @@ export type Parameter = any[];
 export type Function = (...params: Parameter) => any;
 export type AsyncFunction = (...params: Parameter) => Promise<any>;
 
+export type RunOptions = { log: boolean };
+
 export type MiddlewareFunction = (
   req: Request,
   res: Response,
