@@ -3,6 +3,7 @@ node_js :
  - stable
 install:
  - npm install
- - typings install
+before_script:
+ - npm build
 script:
  - npm test
