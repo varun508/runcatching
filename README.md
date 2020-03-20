@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/varun508/runcatching.svg?branch=master)](https://travis-ci.com/varun508/runcatching)
 # runcatching
 
-A Node.js module that runs the code in try-catch block and wraps the result in Either ErrorResult or SuccessResult
+A Node.js module that runs the code in try-catch block and wraps the result in either ErrorResult or SuccessResult
 
 ## Installation
 
