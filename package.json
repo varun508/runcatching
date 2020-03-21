@@ -2,7 +2,7 @@
   "name": "runcatching",
   "version": "1.0.1",
   "description": "Javascript utility library for more controlled error handling",
-  "main": "dis/index.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
